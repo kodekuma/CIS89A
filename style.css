@@ -1,4 +1,6 @@
-/* body content. */
+html {
+    background-color: #FFE5F1;
+}
 body {
     width: 550px;
     margin: auto;
@@ -13,19 +15,19 @@ section {
     margin-bottom: 10px;
     border-radius: 10px;
 }
-/* h1 header */
+// text material
 h1 {
     font-family: arial, sans-serif;
 }
-/* unvisited links */
+// unvisited link color
 a {
-    color:blue
+    color: #FF7ABF;
 }
-/* hovered links */
+// visited link
+a:visited {
+    color: #545454;
+}
+// hovering over text
 a:hover {
     font-weight: bold;
-}
-/* visited links */
-a:visited {
-    color:gray
 }
