@@ -8,10 +8,11 @@ nav {
     text-align: left;
     margin-bottom: 15px;
     padding-bottom: 10px;
+    text-decoration: none;
 }
 /* adding a space between the nav buttons */
 nav a {
-    margin: 2px;
+    margin: 0 15px;
 }
 /* all text elements */
 body {
