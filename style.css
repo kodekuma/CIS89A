@@ -3,16 +3,13 @@
 html {
     background-color: #FF94C4;
 }
-body {
+/* all text elements */
+body, p, h1 {
     background-color: black;
     color: white;
     width: 550px;
     margin: auto;
     padding: 30px;
-    font-family: "M PLUS 1p", sans-serif;
-}
-/* text material */
-h1 {
     font-family: "M PLUS 1p", sans-serif;
 }
 /* unvisited link color */
