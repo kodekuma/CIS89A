@@ -7,7 +7,7 @@ body {
     background-color:black;
 }
 section {
-    background-color:antiquewhite;
+    background-color:pink;
     padding: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -15,7 +15,7 @@ section {
 }
 /* h1 header */
 h1 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family: arial, sans-serif;
 }
 /* unvisited links */
 a {
